@@ -1,0 +1,20 @@
+<Sysmon schemaversion="4.90">
+  <EventFiltering>
+
+    <ProcessCreate onmatch="include" />
+    <NetworkConnect onmatch="include" />
+    <RegistryEvent onmatch="include" />
+    <FileCreate onmatch="include" />
+
+  </EventFiltering>
+</Sysmon>
+
+WHAT IT CAPTURES
+
+Payload execution
+
+PowerShell abuse
+
+C2 network traffic
+
+Persistence changes
