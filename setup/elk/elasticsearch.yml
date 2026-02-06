@@ -1,0 +1,7 @@
+cluster.name: sec-corp
+node.name: elk-node-1
+
+network.host: 0.0.0.0 (should be private ip)
+http.port: 9200
+
+
