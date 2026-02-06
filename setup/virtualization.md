@@ -14,10 +14,10 @@
 ## Virtual Machines
 | VM | Role | IP |
 |---|---|---|
-| Kali Linux | Attacker (Red Team) | 192.168.10.250 |
-| Windows 10 | Client Endpoint | 192.168.10.100 |
-| Windows Server | AD / DC | 192.168.10.7 |
-| Ubuntu | ELK SIEM | 192.168.10.10 |
+| Kali Linux | Attacker (Red Team) | 192.168.80.159 |
+| Windows 10 | Client Endpoint | 192.168.10.142 |
+| Windows Server | AD / DC | 192.168.80.164 |
+| Ubuntu | ELK SIEM | 192.168.80.130 |
 | Malware VM | Ghidra Analysis | Isolated |
 
 ## Security Considerations
