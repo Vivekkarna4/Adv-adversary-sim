@@ -1,0 +1,2 @@
+process.name : ("powershell.exe","cmd.exe","mshta.exe","rundll32.exe") and
+process.parent.name : ("winword.exe","excel.exe","outlook.exe","payload.exe")
