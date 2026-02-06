@@ -8,13 +8,3 @@
 
   </EventFiltering>
 </Sysmon>
-
-WHAT IT CAPTURES
-
-Payload execution
-
-PowerShell abuse
-
-C2 network traffic
-
-Persistence changes
