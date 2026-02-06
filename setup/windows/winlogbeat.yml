@@ -1,0 +1,8 @@
+winlogbeat.event_logs:
+  - name: Security
+  - name: Microsoft-Windows-Sysmon/Operational
+
+output.logstash:
+  hosts: ["192.168.80.130:5044"]
+
+setup.template.enabled: false
