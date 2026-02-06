@@ -1,0 +1,2 @@
+network.direction : "outbound" and
+destination.port : (443 or 8080 or 53)
