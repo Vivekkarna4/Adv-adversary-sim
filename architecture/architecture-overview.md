@@ -33,7 +33,7 @@ Subnet Example:
 
 ### Victim Machines
 
-#### Windows 10 Client
+#### Linux/Windows
 - Role: Initial access target
 - Purpose:
   - Simulate end-user workstation
@@ -61,19 +61,6 @@ Subnet Example:
   - Detection engineering
   - Incident investigation
   - SOC dashboards
-
----
-
-### Malware Analysis Machine
-
-#### Malware Analysis VM
-- Tool: Ghidra
-- Purpose:
-  - Static malware analysis
-  - Behavioral understanding of payloads
-  - Extraction of indicators
-  - Detection improvement
-
 ---
 
 ## Log Flow and Detection Pipeline
