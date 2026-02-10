@@ -1,1 +1,0 @@
-event.original : "*sshd*" and event.original : "*res=failed*"
