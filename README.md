@@ -50,7 +50,7 @@ The primary objective of this lab is to **validate real-world detection capabili
 - **Detection Logic**
   - Custom correlation rules
   - MITRE ATT&CK technique mapping
-  - Alert severity and risk scoring
+  - Alert
 
 ---
 
@@ -87,16 +87,6 @@ The primary objective of this lab is to **validate real-world detection capabili
 
 ---
 
-## Learning Highlights
-
-- Hands-on Purple Team methodology
-- Deep understanding of attacker TTPs
-- Practical SOC detection engineering
-- MITRE ATT&CK-driven threat modeling
-- Enterprise-style log correlation and alerting
-
----
-
 ## Disclaimer
 
 ⚠️ **Legal & Ethical Notice**
@@ -107,10 +97,4 @@ The techniques demonstrated should only be used for **defensive security testing
 
 ---
 
-## Author
-
-**Vivek Karna**  
-Purple Team | Network Security | SIEM | Adversary Simulation
-
----
 
