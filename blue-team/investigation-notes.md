@@ -2,7 +2,7 @@
 
 ## Alert Triggered
 - Rule: Suspicious PowerShell Execution
-- Host: WIN10-CLIENT
+- Host: WINSERVER
 - User: test-user
 
 ## Initial Findings
